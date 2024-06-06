@@ -3,11 +3,11 @@ Hi! My name is Suha and I'm a Computer Science + Data Science student at UW-Madi
 I love dabbling in projects that spark my interest while learning new concepts in the process! 
 
 <h1>🚀Past Projects</h1>
-- Mad Macros (My first fullstack MERN project)
+- Mad Macros (My first fullstack MERN project) <br></br>
 - EpiPal (2nd place team at MadHacks Hackathon)
 
 <h1>📍Currently</h1>
-- Learning about Machine Learning 
+- Learning about Machine Learning <br></br>
 - Brainstorming new project ideas
 
 <h1>My Skills</h1>
