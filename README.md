@@ -11,6 +11,7 @@ I love dabbling in projects that spark my interest while learning new concepts i
 <h1>📍Currently</h1>
 <ul>
 <li>Learning about Machine Learning </li>
+<li>Studying for an AWS cloud practitioner certificate</li>
 <li>Brainstorming new project ideas</li>
 </ul>
 
