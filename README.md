@@ -4,6 +4,7 @@ I love dabbling in projects that spark my interest while learning new concepts i
 
 <h1>🚀Past Projects</h1>
 <ul>
+<li>Red Coral: A project I collaborated on for a non profit through the DSSD chapter at my University </li>
 <li>Mad Macros (My first fullstack MERN project) </li>
 <li>EpiPal (2nd place team at MadHacks Hackathon) </li>
 </ul>
